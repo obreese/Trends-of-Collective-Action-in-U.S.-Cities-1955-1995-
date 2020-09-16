@@ -1,6 +1,6 @@
 # Trends-of-Collective-Action-in-U.S.-Cities-1955-1995
 
-Analysis of protests in U.S. using Stanford's "Dynamics of Collective Action" dataset (https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/node/21).  
+Analysis of protests in U.S. primarily using Stanford's "Dynamics of Collective Action" dataset (https://web.stanford.edu/group/collectiveaction/cgi-bin/drupal/node/21).  
 
 Repository includes a .rmd document with all the code and calculations, and a PDF that the code produces (which also includes most of the code).
 
